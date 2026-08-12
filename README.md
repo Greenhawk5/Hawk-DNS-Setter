@@ -1,7 +1,7 @@
 Hawk DNS Setter
 Welcome to Hawk DNS Setter, an Electron-based DNS server change program for Windows. This project marks my first experience with Electron, showcasing a transition from a Python-based CMD program to a fully-fledged application with enhanced functionality.
 
-Overview
+Overview:
 Hawk DNS Setter allows users to set up to 16 different DNS servers on their Windows machines. To use the program, simply run it as an administrator. On the home page, select your DNS server and the connection you want to set the DNS method for, then press the "Set" button. Wait for confirmation that the DNS has been set. To remove a DNS server, select the connection and press the "Un-set" button.
 
 Features
