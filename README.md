@@ -18,5 +18,5 @@ To remove a DNS server, select the connection and press the "Un-set" button.
 Theme
 Hawk DNS Setter offers the option to change the theme in the settings, providing a customizable experience tailored to user preferences.
 
-Note
+Note:
 This program is primarily designed for users in Iran but can be utilized by anyone looking to manage DNS settings on Windows systems.
